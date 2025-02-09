@@ -52,5 +52,5 @@ Create a bash script named `user_management.sh` that implements the User Account
 
 Add comments in the script to explain the purpose and logic of each part.
 
-code:
+
 
